@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "UBMLton Group presenting at IFL 2016"
+date:   2016-08-28 00:21:23 -0400
+categories: update
+---
+[UB's](http://www.buffalo.edu/) MLton Group will be presenting 
+at [IFL 2016](https://dtai.cs.kuleuven.be/events/ifl2016/) this coming week.
+We will be discussing our work on embedded real-time MLton.
+
+We hope to see you there!
