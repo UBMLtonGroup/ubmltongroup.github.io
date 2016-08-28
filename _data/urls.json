@@ -16,6 +16,11 @@
     "icon": "fa-desktop"
   },
   {
+    "text": "Publications",
+    "url": "/publications/",
+    "icon": "fa-file"
+  },
+  {
     "text": "Github",
     "url": "http://www.github.com/ubmltongroup",
     "icon": "fa-github"
