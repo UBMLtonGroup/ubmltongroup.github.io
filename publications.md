@@ -9,7 +9,7 @@ permalink: /publications/
 > Jeffrey Murphy, Bhargav Shivkumar, Lukasz Ziarek.
 > August 2016 IFL 2016 - 28th symposium on Implementation and Application of Functional Languages
 
-Real-time Capabilities in Functional Languages
+[Real-time Capabilities in Functional Languages](https://github.com/UBMLtonGroup/Publications/blob/master/dcps2016.pdf)
 
 > Jeffrey Murphy, Bhargav Shivkumar, Lukasz Ziarek.
 > April 2016 DCPS: The First CPSWeek Workshop on Declarative Cyber-Physical Systems (DCPS 2016)
