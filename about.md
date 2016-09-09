@@ -13,6 +13,7 @@ Our team consists of:
 - [Lukasz Ziarek](https://www.cse.buffalo.edu/~lziarek/) (PI)
 - [Jeff Murphy](https://www.linkedin.com/in/jeffreycmurphy) (PhD student)
 - [Bhargav Shivkumar](https://www.researchgate.net/profile/Bhargav_Shivkumar) (PhD student)
+- Grant Iraci (Undergraduate research)
 - Sun Hyoung Kim (Undergraduate research)
 - Dhruv Kumar (Undergraduate research)
 - Amy Pritchard (Undergraduate research)
