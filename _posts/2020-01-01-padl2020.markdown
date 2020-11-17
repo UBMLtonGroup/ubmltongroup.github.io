@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "UBMLton Group presenting at PADL 2020"
+date:   2020-01-01 00:21:23 -0400
+categories: update
+---
+[UB's](http://www.buffalo.edu/) MLton Group will be presenting 
+at [PADL 2020](https://popl20.sigplan.org/home/PADL-2020)
+We will be discussing our work on embedded real-time MLton.
+
+We hope to see you there!

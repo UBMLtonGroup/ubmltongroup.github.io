@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "UBMLton Group presenting at PADL 2021"
+date:   2020-11-16 00:21:23 -0400
+categories: update
+---
+[UB's](http://www.buffalo.edu/) MLton Group will be presenting 
+at [PADL 2021](https://popl21.sigplan.org/home/PADL-2021)
+We will be discussing our work on gradual typing.
+
+We hope to see you there!
